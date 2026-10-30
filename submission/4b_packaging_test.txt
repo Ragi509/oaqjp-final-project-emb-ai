@@ -1,0 +1,3 @@
+theia@theiadocker-ragi509:/home/project/final_project$ python3 -c "from EmotionDetection.emotion_detection import emotion_detector; print(emotion_detector('I am very angry'))"
+{'anger': 0.7251846, 'disgust': 0.009412534, 'fear': 0.03152643, 'joy': 0.015298412, 'sadness': 0.057821438, 'dominant_emotion': 'anger'}
+theia@theiadocker-ragi509:/home/project/final_project$ 
